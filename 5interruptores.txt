@@ -1,0 +1,7 @@
+Vou citar os interruptores como 1, 2 e 3, deixaria o 1 ligado por bastente tempo, depois desligaria ele e ligario o dois (resultado final 1=off, 2=on, 3=off), depois iria a sala pra ver as lampadas, e concluiria que a lampada 1 é a que esta quente e desligada, a 2 é a que esta ligada e a 3 é a que esta desligada e fria.echo "# Teste" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/fkdhiro/Teste.git
+git push -u origin main
